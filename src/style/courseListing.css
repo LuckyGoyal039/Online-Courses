@@ -1,0 +1,12 @@
+.outerContainer {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.cardList {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0;
+  justify-content: space-between;
+}

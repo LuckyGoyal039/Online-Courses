@@ -1,0 +1,778 @@
+[
+  {
+    "id": "1",
+    "name": "Introduction to Web Development",
+    "instructor": "Daniel Randall",
+    "description": "This course is designed to start you on a path toward future studies in web development and design, no matter how little experience or technical knowledge you currently have. The web is a very big place, and if you are the typical internet user, you probably visit several websites every day, whether for business, entertainment or education. But have you ever wondered how these websites actually work? How are they built? How do browsers, computers, and mobile devices interact with the web? What skills are necessary to build a website? With almost 1 billion websites now on the internet, the answers to these questions could be your first step toward a better understanding of the internet and developing a new set of internet skills. By the end of this course you’ll be able to describe the structure and functionality of the world wide web, create dynamic web pages using a combination of HTML, CSS, and JavaScript, apply essential programming language concepts when creating HTML forms, select an appropriate web hosting service, and publish your webpages for the world to see. Finally, you’ll be able to develop a working model for creating your own personal or business websites in the future and be fully prepared to take the next step in a more advanced web development or design course or specialization.",
+    "thumbnail": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210310114057/web-development-image.png",
+    "duration": "6 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Beginner level",
+    "prerequisites": ["Basic understanding of web development"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Course overview and website structure and hoisting",
+        "content": "This first module provides an overview of how websites function, their structure, and the ins and outs of choosing a website name and selecting an online host to house your website. By the end of this module, you'll be able to: find and select a web hosting company; choose an effective domain name; use the host to manage your websites; and discuss how networks and the internet function at a high level."
+      },
+      {
+        "week": 2,
+        "topic": "Designing your own website: HTML introdcution",
+        "content": "In this module, we'll begin to explore how to design and create websites by exploring the base language used to power all websites: HTML. By the end of this lesson, you'll be able to: identify and use common HTML tags; add an image to a webpage; create HTML-formatted tables; use hyperlinks to connect a series of webpages; upload your finished HTML pages to a web host; and, learn some tips and tricks for styling pages and practicing your coding."
+      },
+      {
+        "week": 3,
+        "topic": "Introduction to programming using JavaScript",
+        "content": "Now that you know some basic HTML, it's time to turn our attention to another common scripting language used to make websites dynamic - that is allowing users to interact with your webpages - JavaScript. While learning about JavaScript, you'll also gain some foundational knowledge common to all programming languages. By the end of this module, you'll be able to: discuss what is meant by dynamic content; perform essential programming language tasks; create simple JavaScript programs; use JavaScript to set up alerts and respond to events, to read input, and to change HTML; and conduct basic JavaScript testing."
+      },
+      {
+        "week": 4,
+        "topic": "Websites with styles: CSS properties, color and fonts",
+        "content": "While HTML and JavaScript are very useful for web development, they don't exactly make websites look attractive - that's where cascading style sheets, or CSS, comes into play. While HTML is used to build the structure of our pages and JavaScript is used to provide interactive functionality, CSS is used to graphically design and layout webpages. By the end of this module, you'll be able to: discuss common mistakes in designing a website; identify and apply CSS basics like purpose and syntax; use CSS properties to control fonts, colors, layouts, and other common properties; differentiate between in-line, internal, and external CSS; and practice and test your cascading style sheets."
+      },
+      {
+        "week": 5,
+        "topic": "Creating HTML forms",
+        "content": "In this lesson, we're going to learn to apply all of the skills we've acquired so far to make a very common, and very useful type of webpage - an HTML form. HTML forms are seen everywhere on the internet and are used to capture particular information from users in a variety of ways. By the end of this module you'll be able to: create basic HTML forms; identify and appropriately use different types of HTML input; validate user input; submit HTML forms; and test how your forms are working and troubleshoot errors."
+      },
+      {
+        "week": 6,
+        "topic": "Creating web applications",
+        "content": "In our final module, we're going to explore the basics of designing web applications - programming useful and dynamic webpages that allow our users to interact with them. By the end of this lesson you'll be able to: distinguish between client and server-side development; apply advanced JavaScript programming skills to create logic with selection and iteration; create new features for applications; create more advanced HTML forms; and practice and learn additional troubleshooting and problem-solving techniques. The module wraps with a final peer review activity that will draw upon all of the skills you've learned in this course."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Data Processing Using Python",
+    "instructor": "ZHANG Li",
+    "description": "This course is mainly for non-computer majors. It starts with the basic syntax of Python, to how to acquire data in Python locally and from network, to how to present data, then to how to conduct basic and advanced statistic analysis and visualization of data, and finally to how to design a simple GUI to present and process data, advancing level by level. This course, as a whole, based on Finance data and through the establishment of popular cases one after another, enables learners to more vividly feel the simplicity, elegance, and robustness of Python. Also, it discusses the fast, convenient and efficient data processing capacity of Python in humanities and social sciences fields like literature, sociology and journalism and science and engineering fields like mathematics and biology, in addition to business fields. Similarly, it may also be flexibly applied into other fields. The course has been updated.",
+    "thumbnail": "https://images.squarespace-cdn.com/content/v1/58dc1a1ee4fcb51cbb80a096/45875550-ed7b-4d86-8c72-18754034dcd3/Accel+AI+Tutorial+Cover+Page.png",
+    "duration": "5 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Advanced level",
+    "prerequisites": [
+      "Basic understanding of python or any programming language"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Basics of Python",
+        "content": "Hi, guys, welcome to learn Module 01 “Basics of Python”! I’ll first guide you to have a glimpse of its simplicity for learning as well as elegance and robustness. Less is more: the author of Python must know this idea well. After learning this module, you can master the basic language structures, data types, basic operations, conditions, loops, functions and modules in Python. With them, we can write some useful programs!"
+      },
+      {
+        "week": 2,
+        "topic": "Data Acquisition and Presentation",
+        "content": "Welcome to learn Module 02 “Data Acquisition and Presentation”! After learning this module, you can master the modes of acquiring local data and network data in Python and use the basic and yet very powerful data structure sequence, string, list and tuple in Python to fast and effectively present data and simply process data."
+      },
+      {
+        "week": 3,
+        "topic": "Poweful Data Structure and Python libraries",
+        "content": "Welcome to learn Module 03 “Powerful Data Structures and Python Extension Libraries”! Have you felt you are closer to using Python to process data? After learning this module, you can master the intermediate-level and advanced uses of Python: data structure dictionaries and sets. In some applications, they can be very convenient. What’s special here is that, you can also feel the charm of such concise and efficient data structures: ndarray, Series and DataFrame in the most famous and widely applied scientific computing package SciPy in Python."
+      },
+      {
+        "week": 4,
+        "topic": "Python Data Statistics and Data Mining",
+        "content": "Welcome to learn Module 04 “Python data statistics and mining”! In this module, I will show you, over the entire process of data processing, the unique advantages of Python in data processing and analysis, and use many cases familiar to and loved by us to learn about and master methods and characteristics. After learning this module, you can preprocess the data and fast and effectively mine your desired or expected or unknown results from a large amount of data, and can also present those data in various images. In addition, the data statistics modes of all third party packages in Python are extraordinarily and surprisingly strong, but we, as average persons, can still understand and possess them."
+      },
+      {
+        "week": 5,
+        "topic": "Object oriented and Graphical User Interface",
+        "content": "Welcome to Module 05 “Object Orientation and Graphical User Interface”! In this module, I will guide you to understand what object orientation is and the relationship between graphical user interface and object orientation. Learners are only required to understand the concepts so that you can more freely and easily pick up various new functions in future. No program writing is required here. Besides, you also need to master the basic framework of GUI, common components and layout management. After learning them, you will find development with GUI is actually not remote."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "HTML, CSS, and Javascript for Web Developers",
+    "instructor": "Yaakov Chaikin",
+    "description": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! Today’s user expects a lot out of the web page: it has to load fast, expose the desired service, and be comfortable to view on all devices: from a desktop computers to tablets and mobile phones. In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to implement modern web pages with HTML and CSS. We will then advance to learning how to code our pages such that its components rearrange and resize themselves automatically based on the size of the user’s screen. You’ll be able to code up a web page that will be just as useful on a mobile phone as on a desktop computer. No “pinch and zoom” required! Last but certainly not least, we will get a thorough introduction to the most ubiquitous, popular, and incredibly powerful language of the web: Javascript. Using Javascript, you will be able to build a fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user.",
+    "thumbnail": "https://web-eau.net/images/svg/undraw_static_assets.svg",
+    "duration": "5 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Intermediate level",
+    "prerequisites": ["Basic understanding of web development"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to HTML5",
+        "content": "In this module we will learn the basics of HTML5. We'll start with instructional videos on how to set up your development environment, go over HTML5 basics like valid document structure, which elements can be included inside other elements and which can not, discuss the meaning and usefulness of HTML5 semantic tags, and go over essential HTML5 tags."
+      },
+      {
+        "week": 2,
+        "topic": "Introduction to CSS3",
+        "content": "A lot of people tinker with CSS. In this module, we'll take you from the very basics of CSS3 to some fairly advanced concepts like floating and CSS rule conflict resolution. We'll go over the 'box model', background property, etc. We'll finish off the module with learning about Responsive Design using our own CSS code as well as start introducing Twitter Bootstrap with its essential Grid System."
+      },
+      {
+        "week": 3,
+        "topic": "Coding the Static Restaurant Site",
+        "content": "Ready for some REAL fun? This module is it! We'll go over some basics of interacting with a client when managing a web site project and then go visit a real client at their place of business (a Chinese restaurant), help the owner figure out what she wants in a site, and get acquainted with the restaurant in general. We'll spend the rest of the module building a real web site for this business from scratch and you'll get to sit next to me and watch as the site comes together."
+      },
+      {
+        "week": 4,
+        "topic": "Introduction to JavaScript",
+        "content": "What fun would a web site be if there was no functionality to it? In this module, we are going to concentrate on learning the fundamentals of the Javascript language. A lot of even seasoned developers “tinker” with Javascript without really understanding how the language works. That leads to viewing the language as more of a nuisance instead of a powerful tool. That is why we are going to concentrate not only on the “how” but also on the “why”, so you are empowered by the Javascript language features, not confused by them. We’ll cover just about everything - from common language constructs and Javascript types to objects, functions, arrays, closures, and scope isolation."
+      },
+      {
+        "week": 5,
+        "topic": "Using JavaScript to Build Web Applications",
+        "content": "In this module, we are going to take all those newly learned Javascript language skills and learn how to utilize them within the context of a web page. We’ll start by learning how to properly manipulate the web page components using the Javascript Document Object Model API. We will then move on to learning one of the most popular ways of serving up data to a web site - Ajax. We'll learn about the protocol that the language of the web speaks in (HTTP), how to set up and handle Ajax requests and responses, as well as how to process JSON data. We'll finish the module by connecting our restaurant web site from Module 3 to a real backend service that will allow us to pull the data for the restaurant menu dynamically from the server without having to reload the entire page."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Advanced React",
+    "instructor": "Taught by Meta Staff",
+    "description": "Learn how to use more advanced React concepts and features, become proficient in JSX, and confidently test your applications. You’ll examine different types of React components and learn various characteristics and when to use them. You’ll dig into more advanced hooks and create your own. You’ll look into building forms with React. You’ll explore component composition and new patterns, such as Higher Order Components and Render Props. You’ll create a web application that consumes API data and get familiar with the most commonly used React framework integrations, tools, and testing techniques.",
+    "thumbnail": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210122183844/How-to-Learn-ReactJS-in-2021.png",
+    "duration": "4 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Advanced level",
+    "prerequisites": ["Basic understanding of HTML, CSS and JavaScript"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Components",
+        "content": "Learn how to render list and form components efficiently in React, and learn how to lift a shared state up when several components need the updated data."
+      },
+      {
+        "week": 2,
+        "topic": "React Hooks and Custom Hooks",
+        "content": "Learn to use all the common hooks in React, and how to put them to use within your application. Then, build your own custom hooks."
+      },
+      {
+        "week": 3,
+        "topic": "JSX and Testing",
+        "content": "Understand JSX in depth and discover advanced patterns to encapsulate common behaviour via higher-order components and render props. Then, learn how to test and debug your application."
+      },
+      {
+        "week": 4,
+        "topic": "Final Project",
+        "content": "In this module, you will be assessed on the key skills covered in the course and create a project to add to your portfolio."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Advanced React",
+    "instructor": "Developing Back-End Apps with Node.js and Express",
+    "description": "In a recent Stack Overflow survey, Node.js was used by about 50% of the developers who answered the survey, making it the most used server-side technology. Express ranked as the fourth most popular web technology overall, making it the most popular server-side web framework.",
+    "thumbnail": "https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg",
+    "duration": "4 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Advanced level",
+    "prerequisites": [
+      "Basic understanding of HTML, CSS, JavaScript and Server Side Development"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Server Side JavaScript",
+        "content": "You may already be familiar with JavaScript, but did you know there is a server-side JavaScript framework? Discover how Node.js is used on the back end to develop rich, dynamic web applications by importing external modules and using node package manager (NPM). Get hands-on experience using Node.js to build your own simple web server."
+      },
+      {
+        "week": 2,
+        "topic": "Asynchronus I/O with callback Programming",
+        "content": "How can you optimize processor time with Node.js? Discover how Node.js operates in a non-blocking manner and how to handle the result from a network call. Explore the advantages and challenges associated with using anonymous callback functions. Use Node.js to parse JavaScript Object Notation (JSON) data from a Hypertext Transfer Protocol (HTTP) message."
+      },
+      {
+        "week": 3,
+        "topic": "Express web Application Framework",
+        "content": "When you use Node.js to build a hypertext transfer protocol (HTTP) server, you will discover that the default Node.js framework is low-level. You can extend its features with third-party packages such as Express. Get hands-on experience with the Express web application framework by creating a web server that listens to incoming requests. You also learn how to implement authorization with Express. Use routing, middleware, and template rendering to extend the Node.js framework and handle dynamic content."
+      },
+      {
+        "week": 4,
+        "topic": "Final Project",
+        "content": "In this module, you will complete two related projects: a practice project and a final project. The practice project walks you through code that performs CRUD operations for given user details on an Express server using session and JWT authentication and then tests the code using Postman. For the final project, you assume the role of a back-end developer working on a server-side application that stores, retrieves, and manages book ratings and reviews. You will submit screenshots of your application, and then your peers will review the project based on a rubric provided. You will also be expected to review two of your peer’s projects."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Introduction to Web Development",
+    "instructor": "Daniel Randall",
+    "description": "This course is designed to start you on a path toward future studies in web development and design, no matter how little experience or technical knowledge you currently have. The web is a very big place, and if you are the typical internet user, you probably visit several websites every day, whether for business, entertainment or education. But have you ever wondered how these websites actually work? How are they built? How do browsers, computers, and mobile devices interact with the web? What skills are necessary to build a website? With almost 1 billion websites now on the internet, the answers to these questions could be your first step toward a better understanding of the internet and developing a new set of internet skills. By the end of this course you’ll be able to describe the structure and functionality of the world wide web, create dynamic web pages using a combination of HTML, CSS, and JavaScript, apply essential programming language concepts when creating HTML forms, select an appropriate web hosting service, and publish your webpages for the world to see. Finally, you’ll be able to develop a working model for creating your own personal or business websites in the future and be fully prepared to take the next step in a more advanced web development or design course or specialization.",
+    "thumbnail": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210310114057/web-development-image.png",
+    "duration": "6 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Beginner level",
+    "prerequisites": ["Basic understanding of web development"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Course overview and website structure and hoisting",
+        "content": "This first module provides an overview of how websites function, their structure, and the ins and outs of choosing a website name and selecting an online host to house your website. By the end of this module, you'll be able to: find and select a web hosting company; choose an effective domain name; use the host to manage your websites; and discuss how networks and the internet function at a high level."
+      },
+      {
+        "week": 2,
+        "topic": "Designing your own website: HTML introdcution",
+        "content": "In this module, we'll begin to explore how to design and create websites by exploring the base language used to power all websites: HTML. By the end of this lesson, you'll be able to: identify and use common HTML tags; add an image to a webpage; create HTML-formatted tables; use hyperlinks to connect a series of webpages; upload your finished HTML pages to a web host; and, learn some tips and tricks for styling pages and practicing your coding."
+      },
+      {
+        "week": 3,
+        "topic": "Introduction to programming using JavaScript",
+        "content": "Now that you know some basic HTML, it's time to turn our attention to another common scripting language used to make websites dynamic - that is allowing users to interact with your webpages - JavaScript. While learning about JavaScript, you'll also gain some foundational knowledge common to all programming languages. By the end of this module, you'll be able to: discuss what is meant by dynamic content; perform essential programming language tasks; create simple JavaScript programs; use JavaScript to set up alerts and respond to events, to read input, and to change HTML; and conduct basic JavaScript testing."
+      },
+      {
+        "week": 4,
+        "topic": "Websites with styles: CSS properties, color and fonts",
+        "content": "While HTML and JavaScript are very useful for web development, they don't exactly make websites look attractive - that's where cascading style sheets, or CSS, comes into play. While HTML is used to build the structure of our pages and JavaScript is used to provide interactive functionality, CSS is used to graphically design and layout webpages. By the end of this module, you'll be able to: discuss common mistakes in designing a website; identify and apply CSS basics like purpose and syntax; use CSS properties to control fonts, colors, layouts, and other common properties; differentiate between in-line, internal, and external CSS; and practice and test your cascading style sheets."
+      },
+      {
+        "week": 5,
+        "topic": "Creating HTML forms",
+        "content": "In this lesson, we're going to learn to apply all of the skills we've acquired so far to make a very common, and very useful type of webpage - an HTML form. HTML forms are seen everywhere on the internet and are used to capture particular information from users in a variety of ways. By the end of this module you'll be able to: create basic HTML forms; identify and appropriately use different types of HTML input; validate user input; submit HTML forms; and test how your forms are working and troubleshoot errors."
+      },
+      {
+        "week": 6,
+        "topic": "Creating web applications",
+        "content": "In our final module, we're going to explore the basics of designing web applications - programming useful and dynamic webpages that allow our users to interact with them. By the end of this lesson you'll be able to: distinguish between client and server-side development; apply advanced JavaScript programming skills to create logic with selection and iteration; create new features for applications; create more advanced HTML forms; and practice and learn additional troubleshooting and problem-solving techniques. The module wraps with a final peer review activity that will draw upon all of the skills you've learned in this course."
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Data Processing Using Python",
+    "instructor": "ZHANG Li",
+    "description": "This course is mainly for non-computer majors. It starts with the basic syntax of Python, to how to acquire data in Python locally and from network, to how to present data, then to how to conduct basic and advanced statistic analysis and visualization of data, and finally to how to design a simple GUI to present and process data, advancing level by level. This course, as a whole, based on Finance data and through the establishment of popular cases one after another, enables learners to more vividly feel the simplicity, elegance, and robustness of Python. Also, it discusses the fast, convenient and efficient data processing capacity of Python in humanities and social sciences fields like literature, sociology and journalism and science and engineering fields like mathematics and biology, in addition to business fields. Similarly, it may also be flexibly applied into other fields. The course has been updated.",
+    "thumbnail": "https://images.squarespace-cdn.com/content/v1/58dc1a1ee4fcb51cbb80a096/45875550-ed7b-4d86-8c72-18754034dcd3/Accel+AI+Tutorial+Cover+Page.png",
+    "duration": "5 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Advanced level",
+    "prerequisites": [
+      "Basic understanding of python or any programming language"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Basics of Python",
+        "content": "Hi, guys, welcome to learn Module 01 “Basics of Python”! I’ll first guide you to have a glimpse of its simplicity for learning as well as elegance and robustness. Less is more: the author of Python must know this idea well. After learning this module, you can master the basic language structures, data types, basic operations, conditions, loops, functions and modules in Python. With them, we can write some useful programs!"
+      },
+      {
+        "week": 2,
+        "topic": "Data Acquisition and Presentation",
+        "content": "Welcome to learn Module 02 “Data Acquisition and Presentation”! After learning this module, you can master the modes of acquiring local data and network data in Python and use the basic and yet very powerful data structure sequence, string, list and tuple in Python to fast and effectively present data and simply process data."
+      },
+      {
+        "week": 3,
+        "topic": "Poweful Data Structure and Python libraries",
+        "content": "Welcome to learn Module 03 “Powerful Data Structures and Python Extension Libraries”! Have you felt you are closer to using Python to process data? After learning this module, you can master the intermediate-level and advanced uses of Python: data structure dictionaries and sets. In some applications, they can be very convenient. What’s special here is that, you can also feel the charm of such concise and efficient data structures: ndarray, Series and DataFrame in the most famous and widely applied scientific computing package SciPy in Python."
+      },
+      {
+        "week": 4,
+        "topic": "Python Data Statistics and Data Mining",
+        "content": "Welcome to learn Module 04 “Python data statistics and mining”! In this module, I will show you, over the entire process of data processing, the unique advantages of Python in data processing and analysis, and use many cases familiar to and loved by us to learn about and master methods and characteristics. After learning this module, you can preprocess the data and fast and effectively mine your desired or expected or unknown results from a large amount of data, and can also present those data in various images. In addition, the data statistics modes of all third party packages in Python are extraordinarily and surprisingly strong, but we, as average persons, can still understand and possess them."
+      },
+      {
+        "week": 5,
+        "topic": "Object oriented and Graphical User Interface",
+        "content": "Welcome to Module 05 “Object Orientation and Graphical User Interface”! In this module, I will guide you to understand what object orientation is and the relationship between graphical user interface and object orientation. Learners are only required to understand the concepts so that you can more freely and easily pick up various new functions in future. No program writing is required here. Besides, you also need to master the basic framework of GUI, common components and layout management. After learning them, you will find development with GUI is actually not remote."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "HTML, CSS, and Javascript for Web Developers",
+    "instructor": "Yaakov Chaikin",
+    "description": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! Today’s user expects a lot out of the web page: it has to load fast, expose the desired service, and be comfortable to view on all devices: from a desktop computers to tablets and mobile phones. In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to implement modern web pages with HTML and CSS. We will then advance to learning how to code our pages such that its components rearrange and resize themselves automatically based on the size of the user’s screen. You’ll be able to code up a web page that will be just as useful on a mobile phone as on a desktop computer. No “pinch and zoom” required! Last but certainly not least, we will get a thorough introduction to the most ubiquitous, popular, and incredibly powerful language of the web: Javascript. Using Javascript, you will be able to build a fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user.",
+    "thumbnail": "https://web-eau.net/images/svg/undraw_static_assets.svg",
+    "duration": "5 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Intermediate level",
+    "prerequisites": ["Basic understanding of web development"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to HTML5",
+        "content": "In this module we will learn the basics of HTML5. We'll start with instructional videos on how to set up your development environment, go over HTML5 basics like valid document structure, which elements can be included inside other elements and which can not, discuss the meaning and usefulness of HTML5 semantic tags, and go over essential HTML5 tags."
+      },
+      {
+        "week": 2,
+        "topic": "Introduction to CSS3",
+        "content": "A lot of people tinker with CSS. In this module, we'll take you from the very basics of CSS3 to some fairly advanced concepts like floating and CSS rule conflict resolution. We'll go over the 'box model', background property, etc. We'll finish off the module with learning about Responsive Design using our own CSS code as well as start introducing Twitter Bootstrap with its essential Grid System."
+      },
+      {
+        "week": 3,
+        "topic": "Coding the Static Restaurant Site",
+        "content": "Ready for some REAL fun? This module is it! We'll go over some basics of interacting with a client when managing a web site project and then go visit a real client at their place of business (a Chinese restaurant), help the owner figure out what she wants in a site, and get acquainted with the restaurant in general. We'll spend the rest of the module building a real web site for this business from scratch and you'll get to sit next to me and watch as the site comes together."
+      },
+      {
+        "week": 4,
+        "topic": "Introduction to JavaScript",
+        "content": "What fun would a web site be if there was no functionality to it? In this module, we are going to concentrate on learning the fundamentals of the Javascript language. A lot of even seasoned developers “tinker” with Javascript without really understanding how the language works. That leads to viewing the language as more of a nuisance instead of a powerful tool. That is why we are going to concentrate not only on the “how” but also on the “why”, so you are empowered by the Javascript language features, not confused by them. We’ll cover just about everything - from common language constructs and Javascript types to objects, functions, arrays, closures, and scope isolation."
+      },
+      {
+        "week": 5,
+        "topic": "Using JavaScript to Build Web Applications",
+        "content": "In this module, we are going to take all those newly learned Javascript language skills and learn how to utilize them within the context of a web page. We’ll start by learning how to properly manipulate the web page components using the Javascript Document Object Model API. We will then move on to learning one of the most popular ways of serving up data to a web site - Ajax. We'll learn about the protocol that the language of the web speaks in (HTTP), how to set up and handle Ajax requests and responses, as well as how to process JSON data. We'll finish the module by connecting our restaurant web site from Module 3 to a real backend service that will allow us to pull the data for the restaurant menu dynamically from the server without having to reload the entire page."
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Advanced React",
+    "instructor": "Taught by Meta Staff",
+    "description": "Learn how to use more advanced React concepts and features, become proficient in JSX, and confidently test your applications. You’ll examine different types of React components and learn various characteristics and when to use them. You’ll dig into more advanced hooks and create your own. You’ll look into building forms with React. You’ll explore component composition and new patterns, such as Higher Order Components and Render Props. You’ll create a web application that consumes API data and get familiar with the most commonly used React framework integrations, tools, and testing techniques.",
+    "thumbnail": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210122183844/How-to-Learn-ReactJS-in-2021.png",
+    "duration": "4 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Advanced level",
+    "prerequisites": ["Basic understanding of HTML, CSS and JavaScript"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Components",
+        "content": "Learn how to render list and form components efficiently in React, and learn how to lift a shared state up when several components need the updated data."
+      },
+      {
+        "week": 2,
+        "topic": "React Hooks and Custom Hooks",
+        "content": "Learn to use all the common hooks in React, and how to put them to use within your application. Then, build your own custom hooks."
+      },
+      {
+        "week": 3,
+        "topic": "JSX and Testing",
+        "content": "Understand JSX in depth and discover advanced patterns to encapsulate common behaviour via higher-order components and render props. Then, learn how to test and debug your application."
+      },
+      {
+        "week": 4,
+        "topic": "Final Project",
+        "content": "In this module, you will be assessed on the key skills covered in the course and create a project to add to your portfolio."
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Advanced React",
+    "instructor": "Developing Back-End Apps with Node.js and Express",
+    "description": "In a recent Stack Overflow survey, Node.js was used by about 50% of the developers who answered the survey, making it the most used server-side technology. Express ranked as the fourth most popular web technology overall, making it the most popular server-side web framework.",
+    "thumbnail": "https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg",
+    "duration": "4 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Advanced level",
+    "prerequisites": [
+      "Basic understanding of HTML, CSS, JavaScript and Server Side Development"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Server Side JavaScript",
+        "content": "You may already be familiar with JavaScript, but did you know there is a server-side JavaScript framework? Discover how Node.js is used on the back end to develop rich, dynamic web applications by importing external modules and using node package manager (NPM). Get hands-on experience using Node.js to build your own simple web server."
+      },
+      {
+        "week": 2,
+        "topic": "Asynchronus I/O with callback Programming",
+        "content": "How can you optimize processor time with Node.js? Discover how Node.js operates in a non-blocking manner and how to handle the result from a network call. Explore the advantages and challenges associated with using anonymous callback functions. Use Node.js to parse JavaScript Object Notation (JSON) data from a Hypertext Transfer Protocol (HTTP) message."
+      },
+      {
+        "week": 3,
+        "topic": "Express web Application Framework",
+        "content": "When you use Node.js to build a hypertext transfer protocol (HTTP) server, you will discover that the default Node.js framework is low-level. You can extend its features with third-party packages such as Express. Get hands-on experience with the Express web application framework by creating a web server that listens to incoming requests. You also learn how to implement authorization with Express. Use routing, middleware, and template rendering to extend the Node.js framework and handle dynamic content."
+      },
+      {
+        "week": 4,
+        "topic": "Final Project",
+        "content": "In this module, you will complete two related projects: a practice project and a final project. The practice project walks you through code that performs CRUD operations for given user details on an Express server using session and JWT authentication and then tests the code using Postman. For the final project, you assume the role of a back-end developer working on a server-side application that stores, retrieves, and manages book ratings and reviews. You will submit screenshots of your application, and then your peers will review the project based on a rubric provided. You will also be expected to review two of your peer’s projects."
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Introduction to Web Development",
+    "instructor": "Daniel Randall",
+    "description": "This course is designed to start you on a path toward future studies in web development and design, no matter how little experience or technical knowledge you currently have. The web is a very big place, and if you are the typical internet user, you probably visit several websites every day, whether for business, entertainment or education. But have you ever wondered how these websites actually work? How are they built? How do browsers, computers, and mobile devices interact with the web? What skills are necessary to build a website? With almost 1 billion websites now on the internet, the answers to these questions could be your first step toward a better understanding of the internet and developing a new set of internet skills. By the end of this course you’ll be able to describe the structure and functionality of the world wide web, create dynamic web pages using a combination of HTML, CSS, and JavaScript, apply essential programming language concepts when creating HTML forms, select an appropriate web hosting service, and publish your webpages for the world to see. Finally, you’ll be able to develop a working model for creating your own personal or business websites in the future and be fully prepared to take the next step in a more advanced web development or design course or specialization.",
+    "thumbnail": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210310114057/web-development-image.png",
+    "duration": "6 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Beginner level",
+    "prerequisites": ["Basic understanding of web development"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Course overview and website structure and hoisting",
+        "content": "This first module provides an overview of how websites function, their structure, and the ins and outs of choosing a website name and selecting an online host to house your website. By the end of this module, you'll be able to: find and select a web hosting company; choose an effective domain name; use the host to manage your websites; and discuss how networks and the internet function at a high level."
+      },
+      {
+        "week": 2,
+        "topic": "Designing your own website: HTML introdcution",
+        "content": "In this module, we'll begin to explore how to design and create websites by exploring the base language used to power all websites: HTML. By the end of this lesson, you'll be able to: identify and use common HTML tags; add an image to a webpage; create HTML-formatted tables; use hyperlinks to connect a series of webpages; upload your finished HTML pages to a web host; and, learn some tips and tricks for styling pages and practicing your coding."
+      },
+      {
+        "week": 3,
+        "topic": "Introduction to programming using JavaScript",
+        "content": "Now that you know some basic HTML, it's time to turn our attention to another common scripting language used to make websites dynamic - that is allowing users to interact with your webpages - JavaScript. While learning about JavaScript, you'll also gain some foundational knowledge common to all programming languages. By the end of this module, you'll be able to: discuss what is meant by dynamic content; perform essential programming language tasks; create simple JavaScript programs; use JavaScript to set up alerts and respond to events, to read input, and to change HTML; and conduct basic JavaScript testing."
+      },
+      {
+        "week": 4,
+        "topic": "Websites with styles: CSS properties, color and fonts",
+        "content": "While HTML and JavaScript are very useful for web development, they don't exactly make websites look attractive - that's where cascading style sheets, or CSS, comes into play. While HTML is used to build the structure of our pages and JavaScript is used to provide interactive functionality, CSS is used to graphically design and layout webpages. By the end of this module, you'll be able to: discuss common mistakes in designing a website; identify and apply CSS basics like purpose and syntax; use CSS properties to control fonts, colors, layouts, and other common properties; differentiate between in-line, internal, and external CSS; and practice and test your cascading style sheets."
+      },
+      {
+        "week": 5,
+        "topic": "Creating HTML forms",
+        "content": "In this lesson, we're going to learn to apply all of the skills we've acquired so far to make a very common, and very useful type of webpage - an HTML form. HTML forms are seen everywhere on the internet and are used to capture particular information from users in a variety of ways. By the end of this module you'll be able to: create basic HTML forms; identify and appropriately use different types of HTML input; validate user input; submit HTML forms; and test how your forms are working and troubleshoot errors."
+      },
+      {
+        "week": 6,
+        "topic": "Creating web applications",
+        "content": "In our final module, we're going to explore the basics of designing web applications - programming useful and dynamic webpages that allow our users to interact with them. By the end of this lesson you'll be able to: distinguish between client and server-side development; apply advanced JavaScript programming skills to create logic with selection and iteration; create new features for applications; create more advanced HTML forms; and practice and learn additional troubleshooting and problem-solving techniques. The module wraps with a final peer review activity that will draw upon all of the skills you've learned in this course."
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Data Processing Using Python",
+    "instructor": "ZHANG Li",
+    "description": "This course is mainly for non-computer majors. It starts with the basic syntax of Python, to how to acquire data in Python locally and from network, to how to present data, then to how to conduct basic and advanced statistic analysis and visualization of data, and finally to how to design a simple GUI to present and process data, advancing level by level. This course, as a whole, based on Finance data and through the establishment of popular cases one after another, enables learners to more vividly feel the simplicity, elegance, and robustness of Python. Also, it discusses the fast, convenient and efficient data processing capacity of Python in humanities and social sciences fields like literature, sociology and journalism and science and engineering fields like mathematics and biology, in addition to business fields. Similarly, it may also be flexibly applied into other fields. The course has been updated.",
+    "thumbnail": "https://images.squarespace-cdn.com/content/v1/58dc1a1ee4fcb51cbb80a096/45875550-ed7b-4d86-8c72-18754034dcd3/Accel+AI+Tutorial+Cover+Page.png",
+    "duration": "5 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Advanced level",
+    "prerequisites": [
+      "Basic understanding of python or any programming language"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Basics of Python",
+        "content": "Hi, guys, welcome to learn Module 01 “Basics of Python”! I’ll first guide you to have a glimpse of its simplicity for learning as well as elegance and robustness. Less is more: the author of Python must know this idea well. After learning this module, you can master the basic language structures, data types, basic operations, conditions, loops, functions and modules in Python. With them, we can write some useful programs!"
+      },
+      {
+        "week": 2,
+        "topic": "Data Acquisition and Presentation",
+        "content": "Welcome to learn Module 02 “Data Acquisition and Presentation”! After learning this module, you can master the modes of acquiring local data and network data in Python and use the basic and yet very powerful data structure sequence, string, list and tuple in Python to fast and effectively present data and simply process data."
+      },
+      {
+        "week": 3,
+        "topic": "Poweful Data Structure and Python libraries",
+        "content": "Welcome to learn Module 03 “Powerful Data Structures and Python Extension Libraries”! Have you felt you are closer to using Python to process data? After learning this module, you can master the intermediate-level and advanced uses of Python: data structure dictionaries and sets. In some applications, they can be very convenient. What’s special here is that, you can also feel the charm of such concise and efficient data structures: ndarray, Series and DataFrame in the most famous and widely applied scientific computing package SciPy in Python."
+      },
+      {
+        "week": 4,
+        "topic": "Python Data Statistics and Data Mining",
+        "content": "Welcome to learn Module 04 “Python data statistics and mining”! In this module, I will show you, over the entire process of data processing, the unique advantages of Python in data processing and analysis, and use many cases familiar to and loved by us to learn about and master methods and characteristics. After learning this module, you can preprocess the data and fast and effectively mine your desired or expected or unknown results from a large amount of data, and can also present those data in various images. In addition, the data statistics modes of all third party packages in Python are extraordinarily and surprisingly strong, but we, as average persons, can still understand and possess them."
+      },
+      {
+        "week": 5,
+        "topic": "Object oriented and Graphical User Interface",
+        "content": "Welcome to Module 05 “Object Orientation and Graphical User Interface”! In this module, I will guide you to understand what object orientation is and the relationship between graphical user interface and object orientation. Learners are only required to understand the concepts so that you can more freely and easily pick up various new functions in future. No program writing is required here. Besides, you also need to master the basic framework of GUI, common components and layout management. After learning them, you will find development with GUI is actually not remote."
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "HTML, CSS, and Javascript for Web Developers",
+    "instructor": "Yaakov Chaikin",
+    "description": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! Today’s user expects a lot out of the web page: it has to load fast, expose the desired service, and be comfortable to view on all devices: from a desktop computers to tablets and mobile phones. In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to implement modern web pages with HTML and CSS. We will then advance to learning how to code our pages such that its components rearrange and resize themselves automatically based on the size of the user’s screen. You’ll be able to code up a web page that will be just as useful on a mobile phone as on a desktop computer. No “pinch and zoom” required! Last but certainly not least, we will get a thorough introduction to the most ubiquitous, popular, and incredibly powerful language of the web: Javascript. Using Javascript, you will be able to build a fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user.",
+    "thumbnail": "https://web-eau.net/images/svg/undraw_static_assets.svg",
+    "duration": "5 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Intermediate level",
+    "prerequisites": ["Basic understanding of web development"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to HTML5",
+        "content": "In this module we will learn the basics of HTML5. We'll start with instructional videos on how to set up your development environment, go over HTML5 basics like valid document structure, which elements can be included inside other elements and which can not, discuss the meaning and usefulness of HTML5 semantic tags, and go over essential HTML5 tags."
+      },
+      {
+        "week": 2,
+        "topic": "Introduction to CSS3",
+        "content": "A lot of people tinker with CSS. In this module, we'll take you from the very basics of CSS3 to some fairly advanced concepts like floating and CSS rule conflict resolution. We'll go over the 'box model', background property, etc. We'll finish off the module with learning about Responsive Design using our own CSS code as well as start introducing Twitter Bootstrap with its essential Grid System."
+      },
+      {
+        "week": 3,
+        "topic": "Coding the Static Restaurant Site",
+        "content": "Ready for some REAL fun? This module is it! We'll go over some basics of interacting with a client when managing a web site project and then go visit a real client at their place of business (a Chinese restaurant), help the owner figure out what she wants in a site, and get acquainted with the restaurant in general. We'll spend the rest of the module building a real web site for this business from scratch and you'll get to sit next to me and watch as the site comes together."
+      },
+      {
+        "week": 4,
+        "topic": "Introduction to JavaScript",
+        "content": "What fun would a web site be if there was no functionality to it? In this module, we are going to concentrate on learning the fundamentals of the Javascript language. A lot of even seasoned developers “tinker” with Javascript without really understanding how the language works. That leads to viewing the language as more of a nuisance instead of a powerful tool. That is why we are going to concentrate not only on the “how” but also on the “why”, so you are empowered by the Javascript language features, not confused by them. We’ll cover just about everything - from common language constructs and Javascript types to objects, functions, arrays, closures, and scope isolation."
+      },
+      {
+        "week": 5,
+        "topic": "Using JavaScript to Build Web Applications",
+        "content": "In this module, we are going to take all those newly learned Javascript language skills and learn how to utilize them within the context of a web page. We’ll start by learning how to properly manipulate the web page components using the Javascript Document Object Model API. We will then move on to learning one of the most popular ways of serving up data to a web site - Ajax. We'll learn about the protocol that the language of the web speaks in (HTTP), how to set up and handle Ajax requests and responses, as well as how to process JSON data. We'll finish the module by connecting our restaurant web site from Module 3 to a real backend service that will allow us to pull the data for the restaurant menu dynamically from the server without having to reload the entire page."
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Advanced React",
+    "instructor": "Taught by Meta Staff",
+    "description": "Learn how to use more advanced React concepts and features, become proficient in JSX, and confidently test your applications. You’ll examine different types of React components and learn various characteristics and when to use them. You’ll dig into more advanced hooks and create your own. You’ll look into building forms with React. You’ll explore component composition and new patterns, such as Higher Order Components and Render Props. You’ll create a web application that consumes API data and get familiar with the most commonly used React framework integrations, tools, and testing techniques.",
+    "thumbnail": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210122183844/How-to-Learn-ReactJS-in-2021.png",
+    "duration": "4 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Advanced level",
+    "prerequisites": ["Basic understanding of HTML, CSS and JavaScript"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Components",
+        "content": "Learn how to render list and form components efficiently in React, and learn how to lift a shared state up when several components need the updated data."
+      },
+      {
+        "week": 2,
+        "topic": "React Hooks and Custom Hooks",
+        "content": "Learn to use all the common hooks in React, and how to put them to use within your application. Then, build your own custom hooks."
+      },
+      {
+        "week": 3,
+        "topic": "JSX and Testing",
+        "content": "Understand JSX in depth and discover advanced patterns to encapsulate common behaviour via higher-order components and render props. Then, learn how to test and debug your application."
+      },
+      {
+        "week": 4,
+        "topic": "Final Project",
+        "content": "In this module, you will be assessed on the key skills covered in the course and create a project to add to your portfolio."
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Advanced React",
+    "instructor": "Developing Back-End Apps with Node.js and Express",
+    "description": "In a recent Stack Overflow survey, Node.js was used by about 50% of the developers who answered the survey, making it the most used server-side technology. Express ranked as the fourth most popular web technology overall, making it the most popular server-side web framework.",
+    "thumbnail": "https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg",
+    "duration": "4 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Advanced level",
+    "prerequisites": [
+      "Basic understanding of HTML, CSS, JavaScript and Server Side Development"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Server Side JavaScript",
+        "content": "You may already be familiar with JavaScript, but did you know there is a server-side JavaScript framework? Discover how Node.js is used on the back end to develop rich, dynamic web applications by importing external modules and using node package manager (NPM). Get hands-on experience using Node.js to build your own simple web server."
+      },
+      {
+        "week": 2,
+        "topic": "Asynchronus I/O with callback Programming",
+        "content": "How can you optimize processor time with Node.js? Discover how Node.js operates in a non-blocking manner and how to handle the result from a network call. Explore the advantages and challenges associated with using anonymous callback functions. Use Node.js to parse JavaScript Object Notation (JSON) data from a Hypertext Transfer Protocol (HTTP) message."
+      },
+      {
+        "week": 3,
+        "topic": "Express web Application Framework",
+        "content": "When you use Node.js to build a hypertext transfer protocol (HTTP) server, you will discover that the default Node.js framework is low-level. You can extend its features with third-party packages such as Express. Get hands-on experience with the Express web application framework by creating a web server that listens to incoming requests. You also learn how to implement authorization with Express. Use routing, middleware, and template rendering to extend the Node.js framework and handle dynamic content."
+      },
+      {
+        "week": 4,
+        "topic": "Final Project",
+        "content": "In this module, you will complete two related projects: a practice project and a final project. The practice project walks you through code that performs CRUD operations for given user details on an Express server using session and JWT authentication and then tests the code using Postman. For the final project, you assume the role of a back-end developer working on a server-side application that stores, retrieves, and manages book ratings and reviews. You will submit screenshots of your application, and then your peers will review the project based on a rubric provided. You will also be expected to review two of your peer’s projects."
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Introduction to Web Development",
+    "instructor": "Daniel Randall",
+    "description": "This course is designed to start you on a path toward future studies in web development and design, no matter how little experience or technical knowledge you currently have. The web is a very big place, and if you are the typical internet user, you probably visit several websites every day, whether for business, entertainment or education. But have you ever wondered how these websites actually work? How are they built? How do browsers, computers, and mobile devices interact with the web? What skills are necessary to build a website? With almost 1 billion websites now on the internet, the answers to these questions could be your first step toward a better understanding of the internet and developing a new set of internet skills. By the end of this course you’ll be able to describe the structure and functionality of the world wide web, create dynamic web pages using a combination of HTML, CSS, and JavaScript, apply essential programming language concepts when creating HTML forms, select an appropriate web hosting service, and publish your webpages for the world to see. Finally, you’ll be able to develop a working model for creating your own personal or business websites in the future and be fully prepared to take the next step in a more advanced web development or design course or specialization.",
+    "thumbnail": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210310114057/web-development-image.png",
+    "duration": "6 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Beginner level",
+    "prerequisites": ["Basic understanding of web development"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Course overview and website structure and hoisting",
+        "content": "This first module provides an overview of how websites function, their structure, and the ins and outs of choosing a website name and selecting an online host to house your website. By the end of this module, you'll be able to: find and select a web hosting company; choose an effective domain name; use the host to manage your websites; and discuss how networks and the internet function at a high level."
+      },
+      {
+        "week": 2,
+        "topic": "Designing your own website: HTML introdcution",
+        "content": "In this module, we'll begin to explore how to design and create websites by exploring the base language used to power all websites: HTML. By the end of this lesson, you'll be able to: identify and use common HTML tags; add an image to a webpage; create HTML-formatted tables; use hyperlinks to connect a series of webpages; upload your finished HTML pages to a web host; and, learn some tips and tricks for styling pages and practicing your coding."
+      },
+      {
+        "week": 3,
+        "topic": "Introduction to programming using JavaScript",
+        "content": "Now that you know some basic HTML, it's time to turn our attention to another common scripting language used to make websites dynamic - that is allowing users to interact with your webpages - JavaScript. While learning about JavaScript, you'll also gain some foundational knowledge common to all programming languages. By the end of this module, you'll be able to: discuss what is meant by dynamic content; perform essential programming language tasks; create simple JavaScript programs; use JavaScript to set up alerts and respond to events, to read input, and to change HTML; and conduct basic JavaScript testing."
+      },
+      {
+        "week": 4,
+        "topic": "Websites with styles: CSS properties, color and fonts",
+        "content": "While HTML and JavaScript are very useful for web development, they don't exactly make websites look attractive - that's where cascading style sheets, or CSS, comes into play. While HTML is used to build the structure of our pages and JavaScript is used to provide interactive functionality, CSS is used to graphically design and layout webpages. By the end of this module, you'll be able to: discuss common mistakes in designing a website; identify and apply CSS basics like purpose and syntax; use CSS properties to control fonts, colors, layouts, and other common properties; differentiate between in-line, internal, and external CSS; and practice and test your cascading style sheets."
+      },
+      {
+        "week": 5,
+        "topic": "Creating HTML forms",
+        "content": "In this lesson, we're going to learn to apply all of the skills we've acquired so far to make a very common, and very useful type of webpage - an HTML form. HTML forms are seen everywhere on the internet and are used to capture particular information from users in a variety of ways. By the end of this module you'll be able to: create basic HTML forms; identify and appropriately use different types of HTML input; validate user input; submit HTML forms; and test how your forms are working and troubleshoot errors."
+      },
+      {
+        "week": 6,
+        "topic": "Creating web applications",
+        "content": "In our final module, we're going to explore the basics of designing web applications - programming useful and dynamic webpages that allow our users to interact with them. By the end of this lesson you'll be able to: distinguish between client and server-side development; apply advanced JavaScript programming skills to create logic with selection and iteration; create new features for applications; create more advanced HTML forms; and practice and learn additional troubleshooting and problem-solving techniques. The module wraps with a final peer review activity that will draw upon all of the skills you've learned in this course."
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Data Processing Using Python",
+    "instructor": "ZHANG Li",
+    "description": "This course is mainly for non-computer majors. It starts with the basic syntax of Python, to how to acquire data in Python locally and from network, to how to present data, then to how to conduct basic and advanced statistic analysis and visualization of data, and finally to how to design a simple GUI to present and process data, advancing level by level. This course, as a whole, based on Finance data and through the establishment of popular cases one after another, enables learners to more vividly feel the simplicity, elegance, and robustness of Python. Also, it discusses the fast, convenient and efficient data processing capacity of Python in humanities and social sciences fields like literature, sociology and journalism and science and engineering fields like mathematics and biology, in addition to business fields. Similarly, it may also be flexibly applied into other fields. The course has been updated.",
+    "thumbnail": "https://images.squarespace-cdn.com/content/v1/58dc1a1ee4fcb51cbb80a096/45875550-ed7b-4d86-8c72-18754034dcd3/Accel+AI+Tutorial+Cover+Page.png",
+    "duration": "5 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Advanced level",
+    "prerequisites": [
+      "Basic understanding of python or any programming language"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Basics of Python",
+        "content": "Hi, guys, welcome to learn Module 01 “Basics of Python”! I’ll first guide you to have a glimpse of its simplicity for learning as well as elegance and robustness. Less is more: the author of Python must know this idea well. After learning this module, you can master the basic language structures, data types, basic operations, conditions, loops, functions and modules in Python. With them, we can write some useful programs!"
+      },
+      {
+        "week": 2,
+        "topic": "Data Acquisition and Presentation",
+        "content": "Welcome to learn Module 02 “Data Acquisition and Presentation”! After learning this module, you can master the modes of acquiring local data and network data in Python and use the basic and yet very powerful data structure sequence, string, list and tuple in Python to fast and effectively present data and simply process data."
+      },
+      {
+        "week": 3,
+        "topic": "Poweful Data Structure and Python libraries",
+        "content": "Welcome to learn Module 03 “Powerful Data Structures and Python Extension Libraries”! Have you felt you are closer to using Python to process data? After learning this module, you can master the intermediate-level and advanced uses of Python: data structure dictionaries and sets. In some applications, they can be very convenient. What’s special here is that, you can also feel the charm of such concise and efficient data structures: ndarray, Series and DataFrame in the most famous and widely applied scientific computing package SciPy in Python."
+      },
+      {
+        "week": 4,
+        "topic": "Python Data Statistics and Data Mining",
+        "content": "Welcome to learn Module 04 “Python data statistics and mining”! In this module, I will show you, over the entire process of data processing, the unique advantages of Python in data processing and analysis, and use many cases familiar to and loved by us to learn about and master methods and characteristics. After learning this module, you can preprocess the data and fast and effectively mine your desired or expected or unknown results from a large amount of data, and can also present those data in various images. In addition, the data statistics modes of all third party packages in Python are extraordinarily and surprisingly strong, but we, as average persons, can still understand and possess them."
+      },
+      {
+        "week": 5,
+        "topic": "Object oriented and Graphical User Interface",
+        "content": "Welcome to Module 05 “Object Orientation and Graphical User Interface”! In this module, I will guide you to understand what object orientation is and the relationship between graphical user interface and object orientation. Learners are only required to understand the concepts so that you can more freely and easily pick up various new functions in future. No program writing is required here. Besides, you also need to master the basic framework of GUI, common components and layout management. After learning them, you will find development with GUI is actually not remote."
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "name": "HTML, CSS, and Javascript for Web Developers",
+    "instructor": "Yaakov Chaikin",
+    "description": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! Today’s user expects a lot out of the web page: it has to load fast, expose the desired service, and be comfortable to view on all devices: from a desktop computers to tablets and mobile phones. In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to implement modern web pages with HTML and CSS. We will then advance to learning how to code our pages such that its components rearrange and resize themselves automatically based on the size of the user’s screen. You’ll be able to code up a web page that will be just as useful on a mobile phone as on a desktop computer. No “pinch and zoom” required! Last but certainly not least, we will get a thorough introduction to the most ubiquitous, popular, and incredibly powerful language of the web: Javascript. Using Javascript, you will be able to build a fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user.",
+    "thumbnail": "https://web-eau.net/images/svg/undraw_static_assets.svg",
+    "duration": "5 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Intermediate level",
+    "prerequisites": ["Basic understanding of web development"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to HTML5",
+        "content": "In this module we will learn the basics of HTML5. We'll start with instructional videos on how to set up your development environment, go over HTML5 basics like valid document structure, which elements can be included inside other elements and which can not, discuss the meaning and usefulness of HTML5 semantic tags, and go over essential HTML5 tags."
+      },
+      {
+        "week": 2,
+        "topic": "Introduction to CSS3",
+        "content": "A lot of people tinker with CSS. In this module, we'll take you from the very basics of CSS3 to some fairly advanced concepts like floating and CSS rule conflict resolution. We'll go over the 'box model', background property, etc. We'll finish off the module with learning about Responsive Design using our own CSS code as well as start introducing Twitter Bootstrap with its essential Grid System."
+      },
+      {
+        "week": 3,
+        "topic": "Coding the Static Restaurant Site",
+        "content": "Ready for some REAL fun? This module is it! We'll go over some basics of interacting with a client when managing a web site project and then go visit a real client at their place of business (a Chinese restaurant), help the owner figure out what she wants in a site, and get acquainted with the restaurant in general. We'll spend the rest of the module building a real web site for this business from scratch and you'll get to sit next to me and watch as the site comes together."
+      },
+      {
+        "week": 4,
+        "topic": "Introduction to JavaScript",
+        "content": "What fun would a web site be if there was no functionality to it? In this module, we are going to concentrate on learning the fundamentals of the Javascript language. A lot of even seasoned developers “tinker” with Javascript without really understanding how the language works. That leads to viewing the language as more of a nuisance instead of a powerful tool. That is why we are going to concentrate not only on the “how” but also on the “why”, so you are empowered by the Javascript language features, not confused by them. We’ll cover just about everything - from common language constructs and Javascript types to objects, functions, arrays, closures, and scope isolation."
+      },
+      {
+        "week": 5,
+        "topic": "Using JavaScript to Build Web Applications",
+        "content": "In this module, we are going to take all those newly learned Javascript language skills and learn how to utilize them within the context of a web page. We’ll start by learning how to properly manipulate the web page components using the Javascript Document Object Model API. We will then move on to learning one of the most popular ways of serving up data to a web site - Ajax. We'll learn about the protocol that the language of the web speaks in (HTTP), how to set up and handle Ajax requests and responses, as well as how to process JSON data. We'll finish the module by connecting our restaurant web site from Module 3 to a real backend service that will allow us to pull the data for the restaurant menu dynamically from the server without having to reload the entire page."
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Advanced React",
+    "instructor": "Taught by Meta Staff",
+    "description": "Learn how to use more advanced React concepts and features, become proficient in JSX, and confidently test your applications. You’ll examine different types of React components and learn various characteristics and when to use them. You’ll dig into more advanced hooks and create your own. You’ll look into building forms with React. You’ll explore component composition and new patterns, such as Higher Order Components and Render Props. You’ll create a web application that consumes API data and get familiar with the most commonly used React framework integrations, tools, and testing techniques.",
+    "thumbnail": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210122183844/How-to-Learn-ReactJS-in-2021.png",
+    "duration": "4 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Advanced level",
+    "prerequisites": ["Basic understanding of HTML, CSS and JavaScript"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Components",
+        "content": "Learn how to render list and form components efficiently in React, and learn how to lift a shared state up when several components need the updated data."
+      },
+      {
+        "week": 2,
+        "topic": "React Hooks and Custom Hooks",
+        "content": "Learn to use all the common hooks in React, and how to put them to use within your application. Then, build your own custom hooks."
+      },
+      {
+        "week": 3,
+        "topic": "JSX and Testing",
+        "content": "Understand JSX in depth and discover advanced patterns to encapsulate common behaviour via higher-order components and render props. Then, learn how to test and debug your application."
+      },
+      {
+        "week": 4,
+        "topic": "Final Project",
+        "content": "In this module, you will be assessed on the key skills covered in the course and create a project to add to your portfolio."
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Advanced React",
+    "instructor": "Developing Back-End Apps with Node.js and Express",
+    "description": "In a recent Stack Overflow survey, Node.js was used by about 50% of the developers who answered the survey, making it the most used server-side technology. Express ranked as the fourth most popular web technology overall, making it the most popular server-side web framework.",
+    "thumbnail": "https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg",
+    "duration": "4 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "level": "Advanced level",
+    "prerequisites": [
+      "Basic understanding of HTML, CSS, JavaScript and Server Side Development"
+    ],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to Server Side JavaScript",
+        "content": "You may already be familiar with JavaScript, but did you know there is a server-side JavaScript framework? Discover how Node.js is used on the back end to develop rich, dynamic web applications by importing external modules and using node package manager (NPM). Get hands-on experience using Node.js to build your own simple web server."
+      },
+      {
+        "week": 2,
+        "topic": "Asynchronus I/O with callback Programming",
+        "content": "How can you optimize processor time with Node.js? Discover how Node.js operates in a non-blocking manner and how to handle the result from a network call. Explore the advantages and challenges associated with using anonymous callback functions. Use Node.js to parse JavaScript Object Notation (JSON) data from a Hypertext Transfer Protocol (HTTP) message."
+      },
+      {
+        "week": 3,
+        "topic": "Express web Application Framework",
+        "content": "When you use Node.js to build a hypertext transfer protocol (HTTP) server, you will discover that the default Node.js framework is low-level. You can extend its features with third-party packages such as Express. Get hands-on experience with the Express web application framework by creating a web server that listens to incoming requests. You also learn how to implement authorization with Express. Use routing, middleware, and template rendering to extend the Node.js framework and handle dynamic content."
+      },
+      {
+        "week": 4,
+        "topic": "Final Project",
+        "content": "In this module, you will complete two related projects: a practice project and a final project. The practice project walks you through code that performs CRUD operations for given user details on an Express server using session and JWT authentication and then tests the code using Postman. For the final project, you assume the role of a back-end developer working on a server-side application that stores, retrieves, and manages book ratings and reviews. You will submit screenshots of your application, and then your peers will review the project based on a rubric provided. You will also be expected to review two of your peer’s projects."
+      }
+    ]
+  }
+]
