@@ -1,29 +1,15 @@
-import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import React from "react";
 import CourseListing from "./pages/CourseListing";
-import Login from "./pages/Login";
-import Register from "./pages/Register";
-import "./App.css";
+import StudentDashboard from "./pages/StudentDashboard";
 
 function App() {
-  const isUserLogin = true;
   return (
     <BrowserRouter>
       <Routes>
         <Route>
-          <Route
-            path="/"
-            element={
-              isUserLogin ? (
-                <Navigate to="/course-listing" replace={true} />
-              ) : (
-                <Navigate to="/login" replace={true} />
-              )
-            }
-          />
-          <Route path="/login" element={<Login />} />
-          <Route path="/register" element={<Register />} />
           <Route path="/course-listing" element={<CourseListing />} />
+          <Route path="/student-dashboard" element={<StudentDashboard />} />
         </Route>
       </Routes>
     </BrowserRouter>
