@@ -5,6 +5,7 @@ import {
   GoogleAuthProvider,
   signOut,
 } from "firebase/auth";
+import { getFirestore, collection, getDocs } from "firebase/firestore";
 
 const firebaseConfig = {
   apiKey: "AIzaSyDoDEFaRXB9ClN9vkG7IY3TsCSifbp7uD0",
@@ -18,6 +19,7 @@ const firebaseConfig = {
 
 const app = initializeApp(firebaseConfig);
 const auth = getAuth();
+const db = getFirestore(app);
 
 const googleSignIn = () => {
   const provider = new GoogleAuthProvider();
@@ -34,6 +36,17 @@ const googleSignIn = () => {
   return userData;
 };
 
+// function for adding data into firestore
+
+// const addData = async (data) => {
+//   try {
+//     const docRef = await addDoc(collection(db, "courses"), { data });
+//     console.log("documentadded with doc id: ", docRef);
+//   } catch (e) {
+//     console.log("Error adding data", e);
+//   }
+// };
+
 const Logout = () => {
   signOut(auth)
     .then(() => {
@@ -44,4 +57,12 @@ const Logout = () => {
     });
 };
 
-export { googleSignIn, Logout, app };
+const getCourseData = async () => {
+  const querySnapshot = await getDocs(collection(db, "courses"));
+  const data = querySnapshot.docs.map((doc) =>
+    Object.assign(doc.data(), { id: doc.id })
+  )[0].data;
+  return data;
+};
+
+export { googleSignIn, Logout, getCourseData };

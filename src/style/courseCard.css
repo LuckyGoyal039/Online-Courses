@@ -1,10 +1,60 @@
-.main {
+.mainCard {
   margin-bottom: 20px;
+  transition: box-shadow 0.2s;
+  width: 300px;
+  &:hover {
+    box-shadow: 0 0 15px rgba(33, 33, 33, 0.2);
+    transform: scale(1.05);
+  }
 }
-.content {
-  padding-bottom: 20px;
+
+.content-1 {
+  min-height: 140px;
+}
+.instructorIcon {
+  font-size: large;
+}
+.instructor {
+  margin-left: 5px;
+  font-size: small;
+}
+.cardTitle {
+  padding-bottom: 30px;
 }
 .rating {
   display: flex;
   align-items: center;
+}
+
+.imageBox {
+  width: 300px;
+  height: 200px;
+  padding: 5px;
+
+  & img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 7px;
+  }
+}
+.level {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 3px;
+}
+.starIcon {
+  color: gold;
+  font-size: large;
+  padding-bottom: 2px;
+}
+.duration {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+.durationIcon {
+  font-size: large;
+  padding-bottom: 2px;
 }

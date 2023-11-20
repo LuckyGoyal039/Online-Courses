@@ -1,27 +1,45 @@
 import { AiFillStar } from "react-icons/ai";
+import { FaChalkboardTeacher } from "react-icons/fa";
 import "../style/courseCard.css";
+import { GiDuration } from "react-icons/gi";
 
-const CourseCard = () => {
-  const courseName = "Learn React for web development";
-  const level = "Advanced";
-  const duration = "12 hours";
-  const instructure = "Lucky goyal";
-  const courseImage =
-    "https://miro.medium.com/v2/resize:fit:1200/1*y6C4nSvy2Woe0m7bWEn4BA.png";
-  const rating = "4.7";
-
+const CourseCard = ({ data }) => {
   return (
-    <div className="card ml-2 main" style={{ width: "300px" }}>
-      <img src={courseImage} className="card-img-top" alt="Course thumbnail" />
-      <div className="card-body content">
-        <h5 className="card-title">{courseName}</h5>
-        <h5 className="card-text">Instructure: {instructure}</h5>
-        <p className="card-text">Duration: {duration}</p>
-        <p className="rating h6">
-          <AiFillStar className="" />
-          {rating} 
-        </p>
-        <p>{level}</p>
+    <div className="  card mainCard">
+      <div className="imageBox">
+        <img
+          src={data.thumbnail}
+          className="card-img-top"
+          alt="Course thumbnail"
+        />
+      </div>
+      <div className="card-body">
+        <div className="content-1">
+          <p>
+            <span>
+              <FaChalkboardTeacher className="instructorIcon" />
+            </span>
+            <span className="instructor">{data.instructor}</span>
+          </p>
+          <h5 className="cardTitle">{data.name}</h5>
+        </div>
+        <div className="content-2">
+          <p className="rating">
+            <span>
+              <AiFillStar className="starIcon" />
+            </span>
+            <span>{data.rating}</span>
+          </p>
+          <div className="level">
+            <span>{data.level}</span>
+            <div className="duration">
+              <span className="durationIconContainer">
+                <GiDuration className="durationIcon" />
+              </span>
+              <span>{data.duration}</span>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
