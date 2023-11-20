@@ -5,7 +5,7 @@ import "../style/navbar.css";
 import { CgProfile } from "react-icons/cg";
 import { useDispatch, useSelector } from "react-redux";
 
-const Navbar = () => {
+const Navbar = ({ data, setData }) => {
   const user = useSelector((state) => state.global.user);
   const dispatch = useDispatch();
   const handleLogin = () => {
@@ -18,6 +18,16 @@ const Navbar = () => {
   const handleLogout = () => {
     Logout();
     dispatch(setSignout());
+  };
+  const handleSearch = (e) => {
+    const text = e.target.value;
+    const filterData = data.filter((ele) => {
+      return (
+        ele.name.toLowerCase().includes(text.toLowerCase()) ||
+        ele.instructor.toLowerCase().includes(text.toLowerCase())
+      );
+    });
+    setData(filterData);
   };
 
   return (
@@ -44,6 +54,7 @@ const Navbar = () => {
             type="search"
             placeholder="Search"
             aria-label="Search"
+            onChange={handleSearch}
           />
           <button
             className="btn btn-outline-primary my-2 my-sm-0"
